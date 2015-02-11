@@ -1,5 +1,5 @@
 {
-  "name": "weather",
+  "name": "mocha-experiments",
   "version": "1.0.0",
   "description": "Small weather lib",
   "main": "index.js",
@@ -9,6 +9,9 @@
   "author": "dra1n",
   "license": "ISC",
   "devDependencies": {
-    "mocha": "^2.1.0"
+    "chai": "^1.10.0",
+    "mocha": "^2.1.0",
+    "sinon": "^1.12.2",
+    "sinon-chai": "^2.6.0"
   }
 }
